@@ -7,4 +7,7 @@ fun main() {
 
     var name = Pair("Sagar",2358)
     println(name.first + name.second)
+
+    val num = Pair("vivak",25)
+    println(num)
 }
