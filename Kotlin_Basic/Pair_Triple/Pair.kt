@@ -10,4 +10,5 @@ fun main() {
 
     val num = Pair("vivak",25)
     println(num)
+    println(num)
 }
