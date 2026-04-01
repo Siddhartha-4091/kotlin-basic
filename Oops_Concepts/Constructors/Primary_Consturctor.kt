@@ -1,12 +1,7 @@
 package Oops_Concepts.Constructors
 
 class Primary_Consturctor(val name:String, val age:Int) {
-    init {
-        println("hello guys")
-    }
-    init {
-        println("hello sagar")
-    }
+
 }
 
 fun main() {
